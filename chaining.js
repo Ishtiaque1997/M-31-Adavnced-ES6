@@ -23,4 +23,5 @@ const company={
 }
 }
 //optional chaining is done to avoid error sequentially
-console.log(company.backend?.tech.third);
+console.log(company.front?.tech.third);
+
