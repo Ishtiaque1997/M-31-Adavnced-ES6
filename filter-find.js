@@ -20,4 +20,4 @@ const blacks=products.filter(product=>product.color=='pink');
 // console.log(blacks)
 
 const whiteItem=products.find(product=>product.color=='black');
-console.log(whiteItem)
+// console.log(whiteItem)
